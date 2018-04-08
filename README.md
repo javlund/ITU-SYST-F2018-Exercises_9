@@ -1,1 +1,3 @@
-# ITU-SYST-F2018-Exercises_9
+# ITU-SYST-F2018
+
+Øvelsesløsning for React
